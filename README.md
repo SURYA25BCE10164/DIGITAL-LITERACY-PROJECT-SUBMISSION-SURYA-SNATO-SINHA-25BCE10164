@@ -3,27 +3,41 @@ This repository has been created in order to submit the project of Digital Liter
 Course Code: CSE0001 
 
 Name: SURYA SNATO SINHA
+
 Registration Number: 25BCE10164
+
 Slot : A11
+
 Faculty Name: Kannan sir
+
 Branch: B.Tech Computer Science and Engineering (Core)
+
 Batch: 2025
 
 
 Each folder in this repository contains the content of the following tasks given in the project :
 
 Task 1: Awareness Infographic (Visual Literacy)
+
 Task 2: Digital Portfolio (Professional Presence)
+
 Task 3: Platforms & Collaboration (Technical Skills)
+
 Task 4: Email Etiquette (Professionalism)
+
 Task 5: Cybercrime Case Study (Safety & Ethics)
 
 Folder	Contents:
 task-1-presentation/	Image and Pdf of Digital Literacy Awareness Infographic
+
 task-2-portfolio/	Screenshots of GitHub, LinkedIn, and Kaggle profiles
+
 task-3-platforms/	HackerRank Python Challenge & Google Form/Sheet proofs
+
 task-4-email-etiquette/	Professional email drafts & Social Media Checklist
+
 task-5-cybercrime/	UPI Fraud Case Study & Prevention Guide
+
 Final Project Report (PDF)	
 
 
@@ -55,8 +69,11 @@ Researched the "Scan to Receive" UPI Scam. Produced a detailed case study and a 
 IMPORTANT LINKS :
 
 LinkedIn: 
+
 Github: 
+
 Kaggle: 
+
 Google Form:
 
 
