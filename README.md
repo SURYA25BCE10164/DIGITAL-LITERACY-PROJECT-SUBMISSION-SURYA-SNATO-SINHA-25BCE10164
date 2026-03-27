@@ -75,8 +75,7 @@ Github:
 
 Kaggle: 
 
-Google Form:[
-](https://docs.google.com/forms/d/e/1FAIpQLSc8yMYdkqgEVG7kAsTlBvdeAhnWCGUVPISVrDlIFK9cvPw5Gw/viewform?usp=dialog)
+Google Form: (https://docs.google.com/forms/d/e/1FAIpQLSc8yMYdkqgEVG7kAsTlBvdeAhnWCGUVPISVrDlIFK9cvPw5Gw/viewform?usp=dialog)
 
 ## Project Overview : 
 
