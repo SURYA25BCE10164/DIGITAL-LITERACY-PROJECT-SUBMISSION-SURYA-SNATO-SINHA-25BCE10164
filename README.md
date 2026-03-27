@@ -73,7 +73,7 @@ LinkedIn: www.linkedin.com/in/surya-snato-sinha-407808380
 
 Github: (https://github.com/SURYA25BCE10164)
 
-Kaggle: 
+Kaggle: (https://www.kaggle.com/suryasnatosinha)
 
 Google Form: (https://docs.google.com/forms/d/e/1FAIpQLSc8yMYdkqgEVG7kAsTlBvdeAhnWCGUVPISVrDlIFK9cvPw5Gw/viewform?usp=dialog)
 
