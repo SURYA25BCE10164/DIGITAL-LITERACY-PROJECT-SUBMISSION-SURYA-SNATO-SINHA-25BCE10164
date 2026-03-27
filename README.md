@@ -71,7 +71,7 @@ Researched the "Scan to Receive" UPI Scam. Produced a detailed case study and a 
 
 LinkedIn: www.linkedin.com/in/surya-snato-sinha-407808380
 
-Github: 
+Github: (https://github.com/SURYA25BCE10164)
 
 Kaggle: 
 
